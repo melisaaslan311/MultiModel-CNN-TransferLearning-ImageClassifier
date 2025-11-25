@@ -48,11 +48,11 @@ Pre-trained models were fine-tuned using **RGB (3-channel)** input data for 5 ep
 | **MobileNetV2** | Lightweight, uses depthwise separable convolutions. | `classifier[1]` layer modified $(1280 \to 3)$. | 5 Epochs, Adam ($lr=0.01$). |
 
 
-<img width="750" height="250" alt="image" src="https://github.com/user-attachments/assets/fbd65723-05b0-472c-b878-2501604764ba" />
+<img width="750" height="200" alt="image" src="https://github.com/user-attachments/assets/fbd65723-05b0-472c-b878-2501604764ba" />
 **EfficientNet-B0**
-<img width="750" height="250" alt="image" src="https://github.com/user-attachments/assets/c1675e7e-a085-40c1-8cba-b98267e8ae5c" />
+<img width="750" height="200" alt="image" src="https://github.com/user-attachments/assets/c1675e7e-a085-40c1-8cba-b98267e8ae5c" />
 **ResNet-18** 
-<img width="750" height="250" alt="image" src="https://github.com/user-attachments/assets/4bd15da2-ceb5-4897-aa14-863a51d0c140" />
+<img width="750" height="200" alt="image" src="https://github.com/user-attachments/assets/4bd15da2-ceb5-4897-aa14-863a51d0c140" />
 **MobileNetV2**
 
 
